@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_prey",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_prey",
   "overriddenProperties":[],
@@ -29,7 +31,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_prey",
     "path":"sprites/spr_prey/spr_prey.yy",
